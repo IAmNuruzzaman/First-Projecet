@@ -1,0 +1,48 @@
+body{
+    
+    font-family: 'Noto Serif', serif;   
+}
+
+p{
+    color: rgb(180, 17, 5);
+}
+
+section{
+    display: flex;
+}
+
+.image{
+    width:80%;
+}
+
+h2{
+    font-size: 80px;
+    margin: 50px 10px;   
+}
+
+.stay{
+    border-left: 5px solid red;  
+}
+
+.half-width{
+    width: 50%;
+    margin-left: 30px;
+}
+
+.btn{
+    padding: 15px 30px;
+    margin-left: 80px;
+    background-color: red;
+     color: whitesmoke;
+    font-size: 20px;
+}
+
+.mission{
+    text-align: center;
+}
+
+.abc{
+    margin: 40px;
+    
+}
+
